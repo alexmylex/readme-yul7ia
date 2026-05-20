@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alexmylex.github.io/readme-yul7ia/sitemap.xml
